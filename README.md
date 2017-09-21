@@ -1,2 +1,3 @@
 # handle_plink_result
-handle plink results : change .ped to compound genotype file 
+handle plink results : 
+  1. change .ped to compound genotype file 
